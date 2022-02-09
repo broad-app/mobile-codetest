@@ -15,8 +15,9 @@ Your solution must be written in [Flutter](<https://flutter.dev/>) and work for 
 
 ## Tips
 Feel free to choose the design you prefer (perhaps even a retro one?). Here are some references to inspire you:
-[<https://dribbble.com/shots/14241781-Pok-dex>](<https://dribbble.com/shots/14241781-Pok-dex>)
-[<https://dribbble.com/shots/17332968-Pok-dex-Apps-Design-Exploration>](<https://dribbble.com/shots/17332968-Pok-dex-Apps-Design-Exploration>)
-[<https://dribbble.com/shots/14500564-Pokedex>](<https://dribbble.com/shots/14500564-Pokedex>)
+
+* [<https://dribbble.com/shots/14241781-Pok-dex>](<https://dribbble.com/shots/14241781-Pok-dex>)
+* [<https://dribbble.com/shots/17332968-Pok-dex-Apps-Design-Exploration>](<https://dribbble.com/shots/17332968-Pok-dex-Apps-Design-Exploration>)
+* [<https://dribbble.com/shots/14500564-Pokedex>](<https://dribbble.com/shots/14500564-Pokedex>)
 
 Please send the link to the repo with your solution to juliano@broad.app.
